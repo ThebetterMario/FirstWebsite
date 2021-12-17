@@ -1,0 +1,85 @@
+{
+  "main": {
+    "name": "Mario Soto",
+    "occupation": "Student. Entrepreneur. Junior Developer.",
+    "description": "6'4 when I stand on my wallet ",
+    "image": "profilepic.jpg",
+    "bio": " Hi I am Mario. I am a college student on my way to greatness. I was once asked what I would do if I didn't win I guess we'll never know ~ye. I hope you enjoy my website",
+    "contactmessage": "something",
+    "email": "msoto960@gmail.com",
+    "phone": "+4133788663",
+    "address": {
+      "street": "",
+      "city": "New York City",
+      "state": "",
+      "zip": ""
+    },
+    "website": "https://www.mariosoto.com",
+    "resumedownload": "http://mariosoto.com",
+    "social": [
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/mario.soto12/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ThebetterMario",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My skills",
+    "education": [
+      {
+        "school": "Holyoke Community College",
+        "degree": "Associate of Science",
+        "graduated": "Expected 2023",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Doordash",
+        "title": "Freelance Consultant",
+        "years": "boutta week ago ~Shmurda",
+        "description": "Delivering your food hot and fresh with excellent service"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Sandwhich artist",
+        "level": "100%"
+      },
+      {
+        "name": "Dancing",
+        "level": "10%"
+      },
+      {
+        "name": "Singing",
+        "level": "50%"
+      },
+      {
+        "name": "Basketball",
+        "level": "85%"
+      },
+      {
+        "name": "Web Development",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "If he was a donut he would be the best donut I've ever seen",
+        "user": "Gordon Ramsey"
+      }
+    ]
+  }
+}
