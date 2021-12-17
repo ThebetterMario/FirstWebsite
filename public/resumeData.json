@@ -10,7 +10,7 @@
     "phone": "+4133788663",
     "address": {
       "street": "",
-      "city": "New York",
+      "city": "New York City",
       "state": "",
       "zip": ""
     },
@@ -79,6 +79,10 @@
       {
         "text": "If he was a donut he would be the best donut I've ever seen",
         "user": "Gordon Ramsey"
+      },
+      {
+        "text": "Got all my skills from him, he has the bet court vision I've ever seen.",
+        "user": "Chris Paul"
       }
     ]
   }
